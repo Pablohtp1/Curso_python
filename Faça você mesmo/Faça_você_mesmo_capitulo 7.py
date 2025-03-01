@@ -1,0 +1,1 @@
+# Erro proposital: Se você ainda não recebeu um erro de indice em um de seus programas, tente fazer um erro desse tipo acontencer. Altere um indice em um de seus programas de modo a gerar um erro de indice. Não se esqueça de corrigir o erro antes de fechar o programa.

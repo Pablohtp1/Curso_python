@@ -1,0 +1,4 @@
+# Neste capítulo aprendemos a trabalhar com variáveis. Aprendemos a usar nomes descritivos para as variáveis e a resolver erros de nomes e de sintaxe quando surgirem.
+# Vimos o que são strings e como exibi-las usando letras minusculas, letras maisculas e inicias maiúsculas. No inicio, utilizamos espaços em branco para organizar a saida.
+# e aprendemos a usar tabulações e quebras de linha para organizar a saida. Aprendemos a concatenar strings e a usar espaços em branco para concatenar strings.
+# Por fim lemos a respeito da filosofia de manter seu código o mais simples possivel, sempre que puder.
